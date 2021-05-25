@@ -10,13 +10,7 @@ This plugin was tested using the [gatsby-plugin-image](https://www.gatsbyjs.com/
 
 ## How to install
 
-Please include installation instructions here.
-
-Gatsby documentation uses `npm` for installation. This is the recommended approach for plugins as well.
-
-If the plugin is a theme that needs to use `yarn`, please point to [the documentation for switching package managers](/docs/reference/gatsby-cli/#how-to-change-your-default-package-manager-for-your-next-project) in addition to the `yarn`-based instructions.
-
-## Available options (if any)
+`npm add gatsby-source-imgur-albums`
 
 ## When do I use this plugin?
 
