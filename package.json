@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-source-imgur-albums",
+  "version": "1.0.0",
+  "description": "A Gatsby source plugin which adds Imgur albums",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
+  },
+  "dependencies": {
+    "gatsby-source-filesystem": "^3.5.0",
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "imgur",
+    "album"
+  ],
+  "author": "Michael Hoffmann <michael.hoffmann@mokkapps.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mokkapps/gatsby-source-imgur-albums.git"
+  },
+  "homepage": "https://github.com/mokkapps/gatsby-source-imgur-albums#readme",
+  "bugs": {
+    "url": "https://github.com/mokkapps/gatsby-source-imgur-albums/issues"
+  }
+}
