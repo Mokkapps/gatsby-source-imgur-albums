@@ -18,6 +18,8 @@ This plugin is useful if you want to add images from Imgur albums to your Gatsby
 
 ## Examples of usage
 
+The plugin is used in production at [my portfolio website](https://mokkapps.de/tips) ([source code](https://github.com/Mokkapps/website/blob/master/src/pages/tips.js)).
+
 Add the plugin into your site's `gatsby-config.js` file:
 
 ```js
